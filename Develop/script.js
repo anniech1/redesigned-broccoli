@@ -1,4 +1,10 @@
 // Assignment code here
+function generatePassword(length) {
+  var password = '';
+  var chars = '0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  let passwordLength = length;
+}
+
 
 
 // Get references to the #generate element
