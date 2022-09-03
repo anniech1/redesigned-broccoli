@@ -17,6 +17,17 @@ To install this project, clone this Github repository. Launch the html file in y
 
 ## Usage
 Click "Generate Password" and follow the prompts. If the password length is shorter than 8 or longer than 128 characters then users will be presented with an error alert. Deployed screenshots demonstrate this below:
+
+<img width="1319" alt="Screen Shot 2022-09-03 at 4 33 13 PM" src="https://user-images.githubusercontent.com/107431063/188287012-fd62459c-5e33-4d5e-96e3-e6b3b2150093.png">
+
+<img width="1341" alt="Screen Shot 2022-09-03 at 4 33 45 PM" src="https://user-images.githubusercontent.com/107431063/188287039-3f054f8e-cbe4-4fb6-8c5e-f88108c7e1e6.png">
+
+An example of the confirm pop-up which asks for user input on characters.
+<img width="1336" alt="Screen Shot 2022-09-03 at 4 34 07 PM" src="https://user-images.githubusercontent.com/107431063/188287075-e2b389d2-9b58-4d9b-95e7-9ff64e6d2a97.png">
+
+An example of a password generated:
+<img width="987" alt="Screen Shot 2022-09-03 at 4 41 36 PM" src="https://user-images.githubusercontent.com/107431063/188287089-08667784-c482-4e59-9bc5-648895c25fa6.png">
+
                            
 ## Credits 
 Help for this project was sourced from tutoring sessions.
